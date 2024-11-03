@@ -4,7 +4,9 @@
 
 # Other References
 [https://www.hkma.gov.hk/chi/key-functions/international-financial-centre/fintech/central-bank-digital-currency/](https://www.hkma.gov.hk/chi/key-functions/international-financial-centre/fintech/central-bank-digital-currency/)
+
 Q1
+
 https://www.hkma.gov.hk/media/chi/doc/key-information/press-release/2022/20220920c4a1.pdf
 
 
